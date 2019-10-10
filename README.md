@@ -44,7 +44,9 @@
 // Contact.
 
 *Voor vragen kunt u altijd contact opnemen met mij.*
+
 *nytefall_gaming@outlook.com*
+
 *Neem vooral een kijkje op mijn website.*
 
 - [Doppel.Dev](https://doppel.dev)
