@@ -34,11 +34,17 @@
 
 |         | Maandag | Dinsdag| Woensdag | Donderdag | Vrijdag |
 | --- | --- | --- | --- | --- | --- |
-| Week 1 | Onderzoek doen naar Hexagons. | Onderzoek doen naar Hexagons | Leren genereren van meshes. | Leren genereren van meshes. Unity project aanmaken. Aantekeningen maken op kladblok. | Aanmaken repository |
-| Week 2 | Debugging. Grid aanpassen |---|---|---|---|
+| Week 1 | Onderzoek doen naar Hexagons. | Onderzoek doen naar Hexagons | Leren genereren van meshes. | Leren genereren van meshes. Unity project aanmaken. Aantekeningen maken op kladblok. | Aanmaken repository.  |
+| Week 2 | Hexagon generation testen. | Hexagon generation testen. Hexagrid? | Hexagrid? | Hexagrid. UV-textures? | UV-textures? |
 
 // Bronnen.
 
-- [Phaser Examples](https://phaser.io/phaser3/devlog/85)
-- [YouTube: Getting started with Phaser](https://www.youtube.com/watch?v=7cpZ5Y7THmo)
-- [YouTube: Getting started with Phaser playlist](https://www.youtube.com/watch?v=frRWKxB9Hm0&list=PLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no)
+- [Tutorial: Hexagrid](https://catlikecoding.com/unity/tutorials/hex-map/part-1/?fbclid=IwAR1bABcbuWJYgTvsh0kwDb6mzmi-yohDB1pfmanip7hVHou-iMXBVQohpqc)
+
+// Contact.
+
+*Voor vragen kunt u altijd contact opnemen met mij.
+nytefall_gaming@outlook.com
+Neem vooral een kijkje op mijn website.
+
+- [Doppel.Dev](https://doppel.dev)*
