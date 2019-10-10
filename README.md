@@ -1,14 +1,12 @@
-# "Snake 2D" - Erik Kooijman - GD3B
+# "Hexagon Mesh Generation" - Erik Kooijman - GD3B
 
 // Omschrijving.
 
-*Ik maak in deze twee weken mijn versie van het bekende spel "Snake".*
-*In deze opdracht maak ik kennis met het framework genaamd Phaser voor webgames in javascript/typescript.*
-*Ik ben voornamelijk op zoek geweest naar tutorials over phaser, en hoe ik de mechanics van Snake kan toepassen.*
+*In deze opdracht ga ik opzoek naar hoe een hexagon in elkaar zit.*
 
 // Features.
 
-*Eerste keer gebruik Phaser 3 framework.*
+*Algoritmisch genereren van een hexagon mesh in Unity.*
 
 
 // Waar ben ik trots op?
@@ -18,29 +16,25 @@
 
 // Software Anaylse.
 
-*Ik heb gekozen om gebruik te maken van Atom. Dit is mijn huidige go-to text editor voor het schrijven van code in Javascript.
-Om output te testen maak ik gebruik van een live-server van Node, om vervolgens in Google Chrome te kijken of mijn code werkt.
-De game maakt gebruik van het Phaser 3 framework. Dit is een vereiste van de opdracht.*
+--
 
-// Een aantal goede punten aan Phaser zijn:
+// Goede punten.
 
-- *Het is begrijpelijk en logisch.*
-- *Er zijn veel voorbeelden te vinden, op zowel youtube als in de documentatie.*
-- *Je kan snel van start, zonder veel voorbereidingen te treffen zoals lange installaties van externe bronnen.*
+--
 
-// Minpunt phaser.
+// Slechte punten.
 
-*Een nadeel wat ik zelf vind van Phaser is dat het met al zijn classes veel gebruik maakt van "this." en het kan soms erg verwarrend zijn welke "this." nu in gebruik is.*
+--
 
 // Leerdoelen.
 
-*Met deze opdracht hoop ik kennis op te doen over Phaser, zodat ik bij toekomstig gebruik van deze framework sneller van start kan gaan.*
+*Met deze opdracht hoop ik meer informatie te vergaren over vertices, en het genereren en manipuleren van meshes.*
 
 // Planning.
 
 |         | Maandag | Dinsdag| Woensdag | Donderdag | Vrijdag |
 | --- | --- | --- | --- | --- | --- |
-| Week 1 | Keuze maken opdrachten. | Phaser downloaden. Tutorials zoeken. | Beginnen opzet code.| Meer tutorials. Debuggen. | Aanmaken repository. Readme aanpassen.|
+| Week 1 | Onderzoek doen naar Hexagons. | Onderzoek doen naar Hexagons | Leren genereren van meshes. | Leren genereren van meshes. Unity project aanmaken. Aantekeningen maken op kladblok. | Aanmaken repository |
 | Week 2 | Debugging. Grid aanpassen |---|---|---|---|
 
 // Bronnen.
