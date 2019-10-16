@@ -1,12 +1,16 @@
-# "Hexagon Mesh Generation" - Erik Kooijman - GD3B
+# "Hexagon Audio Visualizer" - Erik Kooijman - GD3B
 
 // Omschrijving.
 
-*In deze opdracht ga ik opzoek naar hoe een hexagon in elkaar zit.*
+*In deze opdracht ga ik opzoek naar hoe een hexagon in elkaar zit.
+Na week 1 had ik het genereren van een hexagon aardig onder de knie, en om hier een grid van te maken kostte me ook niet al te lang.
+Toen bedacht ik om wat met de hexagons te doen: Audio visualisatie*
 
 // Features.
 
-*Algoritmisch genereren van een hexagon mesh in Unity.*
+- *Algoritmisch genereren van een hexagon mesh in Unity.
+- Hexagrid realtime aanmaken en kleuren veranderen.
+- Hoogte van de hexagons worden bepaald door de samples verkregen van de audio source.*
 
 
 // Waar ben ik trots op?
