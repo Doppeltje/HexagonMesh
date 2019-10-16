@@ -8,9 +8,9 @@ Toen bedacht ik om wat met de hexagons te doen: Audio visualisatie*
 
 // Features.
 
-- *Algoritmisch genereren van een hexagon mesh in Unity.
-- Hexagrid realtime aanmaken en kleuren veranderen.
-- Hoogte van de hexagons worden bepaald door de samples verkregen van de audio source.*
+- *Algoritmisch genereren van een hexagon mesh in Unity.*
+- *Hexagrid realtime aanmaken en kleuren veranderen.*
+- *Hoogte van de hexagons worden bepaald door de samples verkregen van de audio source.*
 
 
 // Waar ben ik trots op?
