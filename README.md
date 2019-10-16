@@ -15,8 +15,7 @@ Toen bedacht ik om wat met de hexagons te doen: Audio visualisatie*
 
 // Waar ben ik trots op?
 
-- *Voor het eerst gebruik maken, -leren, en toepassen van Phaser, en iets werkends produceren.*
-- *Niet van opdracht wisselen, omdat deze te moeilijk bleek te zijn.*
+- *Het feit dat ik een idee had die ik succesvol kon uitwerken; het visualeren van audio met de hexagons.*
 
 // Software Anaylse.
 
@@ -24,9 +23,12 @@ Toen bedacht ik om wat met de hexagons te doen: Audio visualisatie*
 
 // Goede punten.
 
---
+- *Handige HUD voor de gebruiker.*
 
-// Slechte punten.
+// Verbeter punten.
+
+- *De hexagons worden op dit moment elke frame opnieuw getekend, dit is veelste zwaar.*
+- *Op dit moment is er geen optie om zelf muziek toe te voegen.*
 
 --
 
